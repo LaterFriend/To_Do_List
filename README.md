@@ -1,4 +1,3 @@
 # To_Do_List
-Small To_Do_List Web App
 
-Vytvoření WebApp za pomocí JS/CSS/HTML
+TO-DO-LIST web aplikace za použití HTML/CSS/JS
